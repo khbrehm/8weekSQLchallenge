@@ -16,7 +16,7 @@ https://8weeksqlchallenge.com/
 
 :hamburger: Case Study #1 - Danny's Diner
 ------
-View the [case study](https://8weeksqlchallenge.com/case-study-1/). View my [solution](case-study-#1-dannys-diner/case-study-1.md).
+View the [case study](https://8weeksqlchallenge.com/case-study-1/). View my [solution](Case Study #1 - Dannys Diner/case-study-1.md).
 
 ### Business Task:  
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
