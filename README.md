@@ -14,7 +14,7 @@ https://8weeksqlchallenge.com/
 * Case Study #7: Balanced Tree Clothing Co.
 * Case Study #8: Fresh Segments
 
-:hamburger: Case Study #1 - Danny's Diner
+:ramen: Case Study #1 - Danny's Diner
 ------
 View the [case study](https://8weeksqlchallenge.com/case-study-1/). View my [solution](Case%20Study%20%231%20-%20Danny's%20Diner).
 
