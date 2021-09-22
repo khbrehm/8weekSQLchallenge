@@ -23,7 +23,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ### Entity Relationship Diagram:
 
-![ERD diagram](8weekSQLchallenge/docs/erd_case_study_1.JPG)
+![ERD diagram](https://github.com/khbrehm/8weekSQLchallenge/blob/main/docs/erd_case_study_1.JPG)
 
 ### Case Study Questions:
 <details>
